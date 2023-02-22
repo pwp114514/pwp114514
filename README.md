@@ -1,6 +1,5 @@
-### Hi there 👋
-### fuck you
-### 你妈死了
+Hahahahaha, I'm sending a bus
+###I'm a big bus
 
 <!--
 **fnfpwwwwwp/fnfpwwwwwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

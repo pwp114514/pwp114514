@@ -4,7 +4,7 @@ my name is pwp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwp114514)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=pwp114514&show_icons=true&locale=cn&text_color=FF0000&icon_color=FFFF00&bg_color=FFFF0000,FFFF6400,FFFFFF00,FF96DD56,FF00DD56,FF3CDDB4,FF3232FF,FF7832BA,FFC832FF,FFFF64FF,FFFF6464,FFFF3232-)
+![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=pwp114514&show_icons=true&locale=cn&text_color=FF0000&icon_color=FFFF00&bg_color=FFFFFF)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwp114514&repo=Fear-2-Fear-engine)](https://github.com/pwp114514/Fear-2-Fear-engine)
 
 ______饿了。吃泰国______

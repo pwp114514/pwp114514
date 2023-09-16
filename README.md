@@ -2,7 +2,6 @@ lol
 
 my name is pwp
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwp114514&show_icons=true)
 ![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=pwp114514&show_icons=true&theme=dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwp114514&repo=Fear-2-Fear-engine)](https://github.com/pwp114514/Fear-2-Fear-engine)
 

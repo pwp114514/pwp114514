@@ -2,7 +2,7 @@ lol
 
 my name is pwp
 
-![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=pwp114514&show_icons=true&locale=cn&text_color=COLOR1)
+![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=pwp114514&show_icons=true&locale=cn&text_color=FFFFFF)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwp114514&repo=Fear-2-Fear-engine)](https://github.com/pwp114514/Fear-2-Fear-engine)
 
 ______饿了。吃泰国______
